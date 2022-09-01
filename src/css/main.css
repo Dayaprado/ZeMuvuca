@@ -89,7 +89,6 @@ form {
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%)
-
 }
 
 form div+div {
@@ -108,7 +107,9 @@ textarea {
     width: 300px;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
-    border: 1px solid #999;
+    border: 2px solid rgb(25, 25, 27);
+    border-radius: 8px;
+    padding: 5px;
 }
 
 input:focus,
@@ -128,7 +129,13 @@ textarea {
 }
 
 button {
-    margin-left: .5em;
-    align-content: center;
-    background-color: #52acff;
+    background-color: #1226c1;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
 }
