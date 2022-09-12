@@ -122,6 +122,9 @@ class Validator {
       template.classList.remove('template');
 
       inputParent.appendChild(template);
+    }else{
+      var send = document.getElementById('btn-submit');
+      send.setAttribute
     }
   }
 
@@ -139,6 +142,5 @@ let validator = new Validator();
 // evento de envio do form, que valida os inputs
 submit.addEventListener('click', function (e) {
   e.preventDefault();
-
   validator.validate(form);
 });
