@@ -122,9 +122,6 @@ class Validator {
       template.classList.remove('template');
 
       inputParent.appendChild(template);
-    }else{
-      var send = document.getElementById('btn-submit');
-      send.setAttribute
     }
   }
 
