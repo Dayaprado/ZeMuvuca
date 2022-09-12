@@ -11,8 +11,8 @@ Nesta versão desenvolvemos um site onde deverá ser testada a função de cadas
 
 Integrantes do Grupo 14:
 
-Dayana do Prado Silva
-Diego de Almeida Costa
-Maria Idalina da Silva e Pinto
-Monica Tatiane de Sousa
+Dayana do Prado Silva,
+Diego de Almeida Costa,
+Maria Idalina da Silva e Pinto,
+Monica Tatiane de Sousa &
 Rejane França do Sacramento
